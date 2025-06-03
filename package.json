@@ -1,7 +1,7 @@
 {
-"name": "Black-clover-MD",
-"version": "4.1.0",
-"description": "El mejor bot ",
+"name": "NAGIBOT-MD X BRAYAN",
+"version": "2.2.0",
+"description": "Super bot de WhatsApp 2.0",
 "main": "index.js",
 "type": "module",
 "directories": {
@@ -13,23 +13,25 @@
 "start": "node index.js",
 "qr": "node index.js qr",
 "code": "node index.js code",
+"test": "node test.js",
+"test2": "nodemon index.js", 
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/thecarlos19/black-clover-MD",
+"homepage": "https://github.com/El-brayan502/NagiBotV2",
 "author": {
-"name": "thecarlos19"
+"name": "Brayan330"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/thecarlos19/black-clover-MD.git"
+"url": "git+https://github.com/El-brayan502/NagiBotV2.git"
 },
 "bugs": {
-"url": "https://github.com/thecarlos19/black-clover-MD/issues"
+"url": "https://github.com/El-brayan502/NagiBotV2/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {
-"@whiskeysockets/baileys": "GataNina-Li/Baileys",
+"@whiskeysockets/baileys": "github:gatanina-li/baileys",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@bochilteam/scraper": "^4.2.4",
 "@bochilteam/scraper-sosmed": "^1.0.5",
@@ -38,7 +40,7 @@
 "awesome-phonenumber": "^3.4.0",
 "ruhend-scraper": "^7.0.4",
 "gradient-string": "^2.0.2",
-"google-libphonenumber": "3.2.38",
+"google-libphonenumber": "3.2.40",
 "axios": "^1.1.2",
 "acrcloud": "^1.4.0",
 "form-data": "^4.0.0",
