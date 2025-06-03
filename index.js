@@ -40,15 +40,15 @@ const PORT = process.env.PORT || process.env.SERVER_PORT || 3000
 //let require = createRequire(megu)
 let { say } = cfonts
 
-console.log(chalk.bold.redBright(`\n⇏Iniciando El Mejor Bot De Whatsapp ⇍\n`))
+console.log(chalk.bold.redBright(`\n⇏𝗦𝗘 𝗘𝗦𝗧𝗔 𝗜𝗡𝗜𝗖𝗜𝗔𝗡𝗗𝗢 𝗠𝗔𝗚𝗜𝗕𝗢𝗧 𝗘𝗦𝗣𝗘𝗥𝗘 ⇍\n`))
 
-say('Mafia Bot', {
+say('NAGIBOT', {
 font: 'block',
 align: 'center',
 colors: ['magentaBright']
 })
 
-say(`@jxznr_szz`, {
+say(`NagiBotV2 by Brayan330`, {
 font: 'console',
 align: 'center',
 colors: ['blueBright']
